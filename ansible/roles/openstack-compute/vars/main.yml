@@ -1,11 +1,11 @@
 ---
-rabbit_pw: changeme
-mysql_pw: changeme
-db_pw: changeme
-keystone_admin_pw: changeme
-admin_token: changeme
-metadata_secret: changeme
+rabbit_pw: admin
+mysql_pw: admin
+db_pw: admin
+keystone_admin_pw: admin
+admin_token: admin
+metadata_secret: admin
 openstack_controller_node: localhost
 controller_ip: 127.0.0.1
 pub_iface: em1
-flat_iface: em1
+flat_iface: veth1
