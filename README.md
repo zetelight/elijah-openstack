@@ -46,7 +46,7 @@ $ apt-get install -y ansible git
 ### Step 4. Pull down the elijah-openstack repository
 ```sh
 $ cd ~  
-$ git clone https://github.com/cmusatyalab/elijah-openstack  
+$ git clone https://github.com/zetelight/elijah-openstack.git
 $ cd ~/elijah-openstack/ansible
   ```
 
