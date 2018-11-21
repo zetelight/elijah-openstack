@@ -7,5 +7,5 @@ admin_token: admin
 metadata_secret: admin
 openstack_controller_node: localhost
 controller_ip: 127.0.0.1
-pub_iface: em1
+pub_iface: wlan0
 flat_iface: veth1
